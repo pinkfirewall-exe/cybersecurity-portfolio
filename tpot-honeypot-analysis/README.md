@@ -35,7 +35,7 @@ The New York region was intentionally selected due to its high Internet traffic 
 
 # Key Findings
 
-# 🔐 SSH Attack Volume
+# SSH Attack Volume
 - 10,000+ SSH/Telnet session connections
 - Thousands of brute-force login attempts
 - Multiple successful authentications
@@ -96,4 +96,18 @@ Two recurring SHA256 hashes were observed across dozens of unrelated IPs, strong
 
 
 # Screenshots
-Screenshots from Kibana dashboards and Cowrie logs are included in the `screenshots/` directory to demonstrate attack volume and behaviour patterns.
+
+# Global Attack Distribution
+![Attack Map](screenshots/Attack%20map%20.png)
+
+# Kibana Dashboard Overview
+![Kibana Dashboard](screenshots/kibana%20dashboard.png)
+![Kibana Dashboard](screenshots/kibana%20dashboard%202.png)
+![Kibana Dashboard](screenshots/kibana%20dashboard%203.png)
+
+# Daily Attack Volume
+![Daily Log Volume](screenshots/daily%20log%20volume.png)
+
+## Cowrie SSH Connection Analysis
+![Cowrie Connections](screenshots/cowrie%20connection%20query.png)
+
