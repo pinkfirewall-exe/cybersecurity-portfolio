@@ -98,7 +98,7 @@ Two recurring SHA256 hashes were observed across dozens of unrelated IPs, strong
 # Screenshots
 
 # Global Attack Distribution
-![Attack Map](screenshots/Attack%20map%20.png)
+![Attack Map](screenshots/Attack%20map.png)
 
 # Kibana Dashboard Overview
 ![Kibana Dashboard](screenshots/kibana%20dashboard.png)
